@@ -1,3 +1,7 @@
+# Just following a quick little crash course on React
+Soon will be uploading a personal project with all the new React lessons that I learned which should be a Timed Kanban tool that will allow you to track effort throughout the day and stay organized.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
